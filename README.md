@@ -24,3 +24,6 @@
 - [ ] MVC vs MVVM
    - [ ] MVP vs MVW vs MVU Pattern arasındaki farkı araştır
    - [ ] Model-View-Update (MVU) nedir?
+   
+ ## Ödev Teslim
+Hazırlamış olduğum dokümana erişmek için [Hafta2/araştırma.adoc](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-ZeynepAkdemr/blob/master/Hafta2/ara%C5%9Ft%C4%B1rma.adoc) tıklayın.
